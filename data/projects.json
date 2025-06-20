@@ -16,7 +16,7 @@
         "partner": "",
         "role": "Programmer",
         "description": "Developed a password-protected door security system using the ATmega8535 microcontroller. The system features a keypad for password input, an LCD display for user interface, and an electric lock mechanism controlled by the microcontroller.",
-        "image": "images/project2.jpeg",
+        "image": "images/project2.png",
         "link": ""
     }
 ]
