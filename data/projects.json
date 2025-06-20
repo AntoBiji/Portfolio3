@@ -8,5 +8,15 @@
         "description": "Developed a Line follower transporter robot that able transport small items from one point to another efficiently, making it ideal for industrial automation, warehousing, or educational purposes.",
         "image": "images/project1.jpeg",
         "link": ""
+    },
+     {
+        "title": "SISTEM KEAMANAN DENGAN PASSWORD",
+        "year": "2023",
+        "fund": "",
+        "partner": "",
+        "role": "Programmer",
+        "description": "Developed a password-protected door security system using the ATmega8535 microcontroller. The system features a keypad for password input, an LCD display for user interface, and an electric lock mechanism controlled by the microcontroller.",
+        "image": "images/project2.jpeg",
+        "link": ""
     }
 ]
